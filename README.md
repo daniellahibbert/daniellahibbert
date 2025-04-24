@@ -5,6 +5,7 @@ I'm a Computer Science major with a passion for web development, programming, an
 ## 🔧 Technologies & Tools
 
 - **Languages:** CSS, HTML, C++, JavaScript, Swift
+- Skills: Git, Github
 - **Frameworks:** React
 - **Databases:** MySQL
 - **Tools:** XAAP, Visual Studio Code, Xcode

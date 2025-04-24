@@ -18,10 +18,10 @@ Python
 ## 🌱 Projects
 
 Here are a few projects I've worked on so far:
-- **{Forms}: A interactive registration forms website - HTML,CSS
-- **[RPS](link): A simple Rock-Paper-Scissors game that challenges users against the computer.- SWIFT
-- **[Chatbot]: An interactive chatbot built using Python and NLP techniques to answer user queries. - SWIFT
-- **[Balldop App])**: A mobile application/game. - SWIFT
+- **{Forms}**: A interactive registration forms website - HTML,CSS
+- **[RPS](link**)**: A simple Rock-Paper-Scissors game that challenges users against the computer.- SWIFT
+- **[Chatbot]**: An interactive chatbot built using Python and NLP techniques to answer user queries. - SWIFT
+- **[Balldop App]**: A mobile application/game. - SWIFT
 - **[Element Quiz App]**: A fun quiz app that helps users learn about the periodic table and chemical elements. - SWIFT
 
 
